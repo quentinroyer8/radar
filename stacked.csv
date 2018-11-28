@@ -1,0 +1,46 @@
+type,annee_installation,count
+Itinéraire,2016,14
+Itinéraire,2017,36
+Itinéraire,2018,22
+Radar Passage à Niveau,2012,6
+Radar Passage à Niveau,2013,37
+Radar Passage à Niveau,2014,13
+Radar Passage à Niveau,2015,14
+Radar Passage à Niveau,2016,8
+Radar Vitesse Moyenne,2012,6
+Radar Vitesse Moyenne,2013,40
+Radar Vitesse Moyenne,2014,38
+Radar Vitesse Moyenne,2015,12
+Radar Vitesse Moyenne,2016,4
+Radar Vitesse Moyenne,2017,1
+Radar Vitesse Moyenne,2018,2
+Radar discriminant,2011,16
+Radar discriminant,2012,67
+Radar discriminant,2013,85
+Radar discriminant,2014,50
+Radar discriminant,2015,17
+Radar discriminant,2016,125
+Radar discriminant,2017,44
+Radar discriminant,2018,4
+Radar feu rouge,2009,30
+Radar feu rouge,2010,277
+Radar feu rouge,2011,267
+Radar feu rouge,2012,94
+Radar feu rouge,2013,26
+Radar feu rouge,2017,1
+Radar fixe,2003,33
+Radar fixe,2004,70
+Radar fixe,2005,371
+Radar fixe,2006,160
+Radar fixe,2007,239
+Radar fixe,2008,318
+Radar fixe,2009,247
+Radar fixe,2010,87
+Radar fixe,2011,235
+Radar fixe,2012,162
+Radar fixe,2013,50
+Radar fixe,2014,23
+Radar fixe,2015,13
+Radar fixe,2016,7
+Radar fixe,2017,6
+Radar fixe,2018,1
